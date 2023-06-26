@@ -30,17 +30,3 @@ The motivation behind Tank Blitz originates from the mini tank game of Mario Par
 
 - [Unity](https://unity.com/)
 - [Photon RPC](https://www.photonengine.com/en-US/Photon)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Mario Party Series
-- Photon RPC
-- Unity Game Engine
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
