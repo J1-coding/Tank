@@ -13,6 +13,9 @@ The game has two primary modes of firing the cannon:
 1. **Parabolic Shot**: By right-clicking the mouse, players can shoot the cannon in a parabolic trajectory.
 2. **Straight Shot**: By left-clicking the mouse, players can shoot the cannon straight.
 
+![ezgif com-optimize](https://github.com/J1-coding/TankBlitz/assets/83527213/05017604-cc2b-45f8-95fd-0531ed4df629)
+
+
 The game is played in rooms that can host a specific number of players. Players enter a room by typing their nickname and the room name. Once inside, they can set the maximum number of players allowed in the room. As more players join, the room name appears on a public room list that others can view and join.
 
 ## How to Join a Game
